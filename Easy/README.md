@@ -1,11 +1,11 @@
 ### Easy
 - - -
-Valid Parentheses	26.7%	Easy
-Rotate Array	18.2%	Easy
-Excel Sheet Column Number	37.0%	Easy
-Majority Element	34.6%	Easy
-Excel Sheet Column Title	17.7%	Easy
-Compare Version Numbers	15.0%	Easy
+Valid Parentheses	26.7%	Easy  
+Rotate Array	18.2%	Easy  
+Excel Sheet Column Number	37.0%	Easy  
+Majority Element	34.6%	Easy  
+Excel Sheet Column Title	17.7%	Easy  
+Compare Version Numbers	15.0%	Easy  
 Intersection of Two Linked Lists	27.6%	Easy   __N__
 ZigZag Conversion	22.4%	Easy
 Min Stack	16.2%	Easy   __N__ 
@@ -13,7 +13,7 @@ Reverse Integer	28.9%	Easy
 String to Integer (atoi)	13.6%	Easy   __N__
 Palindrome Number	29.3%	Easy
 Roman to Integer	34.8%	Easy
-Longest Common Prefix	26.4%	Easy
+Longest Common Prefix	26.4%	Easy  
 Valid Palindrome	22.1%	Easy
 Remove Nth Node From End of List	28.1%	Easy   __N__
 Pascal's Triangle II	29.7%	Easy
