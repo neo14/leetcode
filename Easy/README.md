@@ -1,6 +1,6 @@
 ### Easy
 - - -
->Valid Parentheses	26.7%	Easy
+Valid Parentheses	26.7%	Easy
 Rotate Array	18.2%	Easy
 Excel Sheet Column Number	37.0%	Easy
 Majority Element	34.6%	Easy
